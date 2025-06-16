@@ -45,7 +45,7 @@ const Hero: React.FC = () => {
           <div className="relative inline-block">
             <div className="w-32 sm:w-40 h-32 sm:h-40 mx-auto mt-6 mb-6 rounded-full overflow-hidden shadow-2xl relative border-4 border-white/20">
               <img
-                src="1.jpg"
+                src="image.jpg"
                 alt="Guna Vardhan Naidu"
                 className="w-full h-full object-cover"
               />
