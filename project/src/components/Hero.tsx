@@ -45,10 +45,10 @@ const Hero: React.FC = () => {
           <div className="relative inline-block">
             <div className="w-32 sm:w-40 h-32 sm:h-40 mx-auto mt-6 mb-6 rounded-full overflow-hidden shadow-2xl relative border-4 border-white/20">
               <img
-                src="image.jpg"
-                alt="Guna Vardhan Naidu"
-                className="w-full h-full object-cover"
-              />
+  src="/image.jpg"
+  alt="Guna Vardhan Naidu"
+  className="w-full h-full object-cover"
+/>
               <div className="absolute inset-0 bg-gradient-to-t from-blue-900/20 to-transparent"></div>
 
               <div className="absolute -top-2 -right-2 p-2 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full shadow-lg animate-bounce">
